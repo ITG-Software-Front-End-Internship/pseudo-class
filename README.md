@@ -4,7 +4,7 @@ This project is a simple demonstration of using CSS pseudo-classes, specifically
 
 ## Demo
 
-See it live: [https://diaahsharqawi.github.io/pseudo-class/](https://diaahsharqawi.github.io/pseudo-class/)
+See it live: [Live demo](https://itg-software-front-end-internship.github.io/pseudo-class/)
 
 ## Features
 
